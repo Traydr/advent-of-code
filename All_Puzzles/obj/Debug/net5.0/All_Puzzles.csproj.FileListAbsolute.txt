@@ -1,0 +1,16 @@
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\bin\Debug\net5.0\All_Puzzles.exe
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\bin\Debug\net5.0\All_Puzzles.deps.json
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\bin\Debug\net5.0\All_Puzzles.runtimeconfig.json
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\bin\Debug\net5.0\All_Puzzles.runtimeconfig.dev.json
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\bin\Debug\net5.0\All_Puzzles.dll
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\bin\Debug\net5.0\ref\All_Puzzles.dll
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\bin\Debug\net5.0\All_Puzzles.pdb
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\All_Puzzles.csprojAssemblyReference.cache
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\All_Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\All_Puzzles.AssemblyInfoInputs.cache
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\All_Puzzles.AssemblyInfo.cs
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\All_Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\All_Puzzles.dll
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\ref\All_Puzzles.dll
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\All_Puzzles.pdb
+C:\Users\titas\RiderProjects\Advent_of_Code_2021\All_Puzzles\obj\Debug\net5.0\All_Puzzles.genruntimeconfig.cache

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzle_1", "Puzzle_1\Puzzle_1.csproj", "{71413432-1F05-4D54-824E-7F6CFEA96A89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All_Puzzles", "All_Puzzles\All_Puzzles.csproj", "{71413432-1F05-4D54-824E-7F6CFEA96A89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

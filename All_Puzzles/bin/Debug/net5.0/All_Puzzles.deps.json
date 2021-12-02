@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "All_Puzzles/1.0.0": {
+        "runtime": {
+          "All_Puzzles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "All_Puzzles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
