@@ -7,7 +7,8 @@ namespace Puzzle_1
         static void Main()
         {
             //Puz1.RunPuzzle();
-            Puz2.RunPuzzle();
+            //Puz2.RunPuzzle();
+            Puz3.RunPuzzle();
         }
     }
 }
