@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "swh6IQKg262PoKHNuTK9JeK0uzE0rs5W+B3Cd1HrVPwByoZVII3w0OBzqtGXhrvB+9SMDLaAoMyEoLLMXe+tlg==",
+  "dgSpecHash": "Jw7LSALmEsIqq0O30pIxHr10WYzPVPHHvgHScvH46CQPN1Ie4Uqf/IdBNvsr5kfSUGoUSyL4LF3D9OV3Ip6Wwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\titas\\RiderProjects\\Advent_of_Code_2021\\All_Puzzles\\All_Puzzles.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/titas/Documents/Projects/Advent-of-Code-2021/All_Puzzles/All_Puzzles.csproj",
+  "expectedPackageFiles": [
+    "/home/titas/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/titas/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/titas/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.13/microsoft.netcore.app.host.linux-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

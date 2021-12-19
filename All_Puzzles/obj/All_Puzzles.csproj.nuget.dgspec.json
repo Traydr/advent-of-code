@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\titas\\RiderProjects\\Advent_of_Code_2021\\All_Puzzles\\All_Puzzles.csproj": {}
+    "/home/titas/Documents/Projects/Advent-of-Code-2021/All_Puzzles/All_Puzzles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\titas\\RiderProjects\\Advent_of_Code_2021\\All_Puzzles\\All_Puzzles.csproj": {
+    "/home/titas/Documents/Projects/Advent-of-Code-2021/All_Puzzles/All_Puzzles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titas\\RiderProjects\\Advent_of_Code_2021\\All_Puzzles\\All_Puzzles.csproj",
+        "projectUniqueName": "/home/titas/Documents/Projects/Advent-of-Code-2021/All_Puzzles/All_Puzzles.csproj",
         "projectName": "All_Puzzles",
-        "projectPath": "C:\\Users\\titas\\RiderProjects\\Advent_of_Code_2021\\All_Puzzles\\All_Puzzles.csproj",
-        "packagesPath": "C:\\Users\\titas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titas\\RiderProjects\\Advent_of_Code_2021\\All_Puzzles\\obj\\",
+        "projectPath": "/home/titas/Documents/Projects/Advent-of-Code-2021/All_Puzzles/All_Puzzles.csproj",
+        "packagesPath": "/home/titas/.nuget/packages/",
+        "outputPath": "/home/titas/Documents/Projects/Advent-of-Code-2021/All_Puzzles/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\titas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/titas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -47,12 +47,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
